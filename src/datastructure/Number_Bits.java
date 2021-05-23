@@ -1,4 +1,4 @@
-package DataStructure;
+package datastructure;
 
 class Number_Bits{ 
 

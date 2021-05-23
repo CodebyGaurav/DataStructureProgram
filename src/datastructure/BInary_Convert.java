@@ -1,4 +1,4 @@
-package DataStructure;
+package datastructure;
 
 public class BInary_Convert {
 

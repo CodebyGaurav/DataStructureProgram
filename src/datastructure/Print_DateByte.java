@@ -1,4 +1,4 @@
-package DataStructure;
+package datastructure;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
